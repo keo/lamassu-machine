@@ -4,6 +4,7 @@ The software that runs the Lamassu Bitcoin Machine.
 ## Installing
 
 ```
+sudo apt-get install build-essential
 git clone https://github.com/lamassu/lamassu-machine.git
 cd lamassu-machine
 npm install
